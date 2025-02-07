@@ -3,7 +3,7 @@ Last Updated: 2025.02.07
 
 Welcome to HiKi. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application ("App").
 
-1. Information We Collect
+##1. Information We Collect
 HiKi does not collect, store, or share any personal data from users. All financial records and data you enter into the app are stored locally on your device and are not transmitted to our servers or third parties.
 
 2. How We Use Your Information
